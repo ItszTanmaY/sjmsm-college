@@ -1,0 +1,249 @@
+[
+  {
+    "id": "gb1",
+    "category": "governing-body",
+    "name": "Shri. Bapusaheb Vasant Chhagan Chaudhari",
+    "designation": "President"
+  },
+  {
+    "id": "gb2",
+    "category": "governing-body",
+    "name": "Shri. Appasaheb Arvind Chhagan Chaudhari",
+    "designation": "Vice President"
+  },
+  {
+    "id": "gb3",
+    "category": "governing-body",
+    "name": "Smt. Alka Sanjay Chaudhari",
+    "designation": "Member"
+  },
+  {
+    "id": "gb4",
+    "category": "governing-body",
+    "name": "Shri. Annasaheb Chhagan Deoram Chaudhari",
+    "designation": "Member"
+  },
+  {
+    "id": "gb5",
+    "category": "governing-body",
+    "name": "Smt. Indubai Gopal Chaudhari",
+    "designation": "Member"
+  },
+  {
+    "id": "gb6",
+    "category": "governing-body",
+    "name": "Shri. Rajendra Jagannath Chaudhari",
+    "designation": "Member"
+  },
+  {
+    "id": "gb7",
+    "category": "governing-body",
+    "name": "Shri. Abasaheb Sanjay Chhagan Chaudhari",
+    "designation": "Secretary"
+  },
+  {
+    "id": "2",
+    "category": "cdc",
+    "name": "Dr. A. B. Principal",
+    "designation": "Principal",
+    "role": "Ex-Officio Secretary",
+    "qualifications": "M.A., Ph.D.",
+    "experience": "25+ Years"
+  },
+  {
+    "id": "nt1",
+    "category": "non-teaching-staff",
+    "name": "Mr. Ashok Kale",
+    "designation": "Head Clerk",
+    "qualifications": "B.Com",
+    "experience": "22 Years"
+  },
+  {
+    "id": "nt2",
+    "category": "non-teaching-staff",
+    "name": "Mr. Suresh Pawar",
+    "designation": "Senior Clerk",
+    "qualifications": "B.A.",
+    "experience": "18 Years"
+  },
+  {
+    "id": "nt3",
+    "category": "non-teaching-staff",
+    "name": "Mrs. Sunita Jadhav",
+    "designation": "Junior Clerk",
+    "qualifications": "B.Com",
+    "experience": "10 Years"
+  },
+  {
+    "id": "nt4",
+    "category": "non-teaching-staff",
+    "name": "Mr. Ramesh Bhosale",
+    "designation": "Lab Assistant",
+    "qualifications": "B.Sc",
+    "experience": "15 Years"
+  },
+  {
+    "id": "nt5",
+    "category": "non-teaching-staff",
+    "name": "Mr. Vinod More",
+    "designation": "Library Attendant",
+    "qualifications": "HSC",
+    "experience": "12 Years"
+  },
+  {
+    "id": "nt6",
+    "category": "non-teaching-staff",
+    "name": "Mr. Ganesh Shinde",
+    "designation": "Peon",
+    "qualifications": "SSC",
+    "experience": "20 Years"
+  },
+  {
+    "id": "nt7",
+    "category": "non-teaching-staff",
+    "name": "Mr. Santosh Chavan",
+    "designation": "Peon",
+    "qualifications": "SSC",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nt8",
+    "category": "non-teaching-staff",
+    "name": "Mr. Anil Wagh",
+    "designation": "Peon",
+    "qualifications": "SSC",
+    "experience": "14 Years"
+  },
+  {
+    "id": "nt9",
+    "category": "non-teaching-staff",
+    "name": "Mr. Deepak Koli",
+    "designation": "Peon",
+    "qualifications": "HSC",
+    "experience": "8 Years"
+  },
+  {
+    "id": "nt10",
+    "category": "non-teaching-staff",
+    "name": "Mr. Vijay Mali",
+    "designation": "Sweeper",
+    "qualifications": "Under SSC",
+    "experience": "25 Years"
+  },
+  {
+    "id": "nt11",
+    "category": "non-teaching-staff",
+    "name": "Mrs. Mangal Bai",
+    "designation": "Sweeper",
+    "qualifications": "Under SSC",
+    "experience": "20 Years"
+  },
+  {
+    "id": "nt12",
+    "category": "non-teaching-staff",
+    "name": "Mr. Raju Bhil",
+    "designation": "Night Watchman",
+    "qualifications": "SSC",
+    "experience": "10 Years"
+  },
+  {
+    "id": "ts1",
+    "category": "teaching-staff",
+    "name": "Dr. Vijaysing Indrasing Girase",
+    "designation": "Principal",
+    "qualifications": "M.Com, M.Phil, Ph.D.",
+    "experience": "Since 2021",
+    "subject": "Business & Management",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_V.I. Girase_principal.pdf"
+  },
+  {
+    "id": "ts2",
+    "category": "teaching-staff",
+    "name": "Dr. B.S. Patil",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., B.Ed., M.Phil., Ph.D.",
+    "experience": "Since 1997",
+    "subject": "Geography",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_Dr_BS_Patil.pdf"
+  },
+  {
+    "id": "ts3",
+    "category": "teaching-staff",
+    "name": "Dr. R.D. Chaudhari",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., B.Ed., Ph.D.",
+    "experience": "Since 1997",
+    "subject": "History",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_RD_Chaudhari.pdf"
+  },
+  {
+    "id": "ts4",
+    "category": "teaching-staff",
+    "name": "Prof. V.B. Mali",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., B.Ed., SET",
+    "experience": "Since 1999",
+    "subject": "Defence Study",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_Dr_VB_Mali.pdf"
+  },
+  {
+    "id": "ts5",
+    "category": "teaching-staff",
+    "name": "Prof. M.P. Suryawanshi",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., B.Ed., M.Phil.",
+    "experience": "Since 1999",
+    "subject": "English",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/Prof. M.P. Suryavanshi.pdf"
+  },
+  {
+    "id": "ts6",
+    "category": "teaching-staff",
+    "name": "Prof. G.P. Pathak",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., Ph.D.",
+    "experience": "Since 2001",
+    "subject": "Marathi",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_Pathak_Sir.pdf"
+  },
+  {
+    "id": "ts7",
+    "category": "teaching-staff",
+    "name": "Prof. D.T. Suryawanshi",
+    "designation": "Physical Director",
+    "qualifications": "B.A., M.P.Ed.",
+    "experience": "Since 2001",
+    "subject": "Physical Education",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_DT_Suryawanshi.pdf"
+  },
+  {
+    "id": "ts8",
+    "category": "teaching-staff",
+    "name": "Prof. S.P. Baisane",
+    "designation": "Assistant Professor",
+    "qualifications": "M.A., B.Ed.",
+    "experience": "Since 2001",
+    "subject": "Economics",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_Baisane_Sir.pdf"
+  },
+  {
+    "id": "ts9",
+    "category": "teaching-staff",
+    "name": "Prof. N.S. Tadavi",
+    "designation": "Lecturer",
+    "qualifications": "M.A.",
+    "experience": "Since 2001",
+    "subject": "Hindi",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_Tadavi_Sir.pdf"
+  },
+  {
+    "id": "ts10",
+    "category": "teaching-staff",
+    "name": "Prof. P.B. Ghante",
+    "designation": "Librarian",
+    "qualifications": "MA, M.Lib. & I.Sc., NET, SET, M.Phil, DCM, GDC&A",
+    "experience": "Since 2015",
+    "subject": "Library Science",
+    "pdfUrl": "/STAFFDOCS/teaching/senior/cv_PB_Ghante.pdf"
+  }
+]

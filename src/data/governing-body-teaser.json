@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Shri. Bapusaheb V.C. Chaudhari",
+    "role": "President, SJMSM",
+    "image": "/images/President-v2.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Shri. Appasaheb A.C. Chaudhari",
+    "role": "Vice President",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Shri. B.C. Chaudhari",
+    "role": "Secretary",
+    "image": "/images/Secretary-v2.jpg"
+  }
+]

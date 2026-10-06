@@ -1,0 +1,36 @@
+{
+  "admission": [
+    {
+      "id": "1",
+      "name": "Dr. C. D. Sharma",
+      "designation": "Chairman",
+      "department": "Department of Arts"
+    },
+    {
+      "id": "2",
+      "name": "Prof. E. F. Gupta",
+      "designation": "Member",
+      "department": "Department of Commerce"
+    },
+    {
+      "id": "3",
+      "name": "Shri. G. H. Joshi",
+      "designation": "Administrative Staff",
+      "department": "Office"
+    }
+  ],
+  "examination": [
+    {
+      "id": "1",
+      "name": "Dr. I. J. Patel",
+      "designation": "Chairman",
+      "department": "Department of Commerce"
+    },
+    {
+      "id": "2",
+      "name": "Prof. K. L. Desai",
+      "designation": "Member",
+      "department": "Department of Arts"
+    }
+  ]
+}

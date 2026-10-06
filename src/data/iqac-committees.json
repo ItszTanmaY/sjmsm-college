@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "category": "iqac-committee",
+    "name": "Dr. Example Principal",
+    "designation": "Principal",
+    "role": "Chairman"
+  },
+  {
+    "id": "2",
+    "category": "iqac-committee",
+    "name": "Prof. Example Coordinator",
+    "designation": "Head of Department",
+    "role": "Coordinator"
+  },
+  {
+    "id": "3",
+    "category": "sc-st-cell",
+    "name": "Dr. ABC",
+    "designation": "Associate Professor",
+    "role": "Coordinator"
+  },
+  {
+    "id": "4",
+    "category": "minority-cell",
+    "name": "Prof. XYZ",
+    "designation": "Assistant Professor",
+    "role": "Member"
+  },
+  {
+    "id": "5",
+    "category": "icc",
+    "name": "Dr. LMN",
+    "designation": "Professor",
+    "role": "Presiding Officer"
+  }
+]

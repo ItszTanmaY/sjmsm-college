@@ -1,0 +1,263 @@
+[
+  {
+    "title": "About",
+    "href": "/about",
+    "links": [
+      {
+        "name": "About College",
+        "href": "/about"
+      },
+      {
+        "name": "Vision & Mission",
+        "href": "/about#vision-mission"
+      },
+      {
+        "name": "Principal's Messages",
+        "href": "/about#principal-messages"
+      },
+      {
+        "name": "Governing Body",
+        "href": "/about#governing-body"
+      },
+      {
+        "name": "College Developement Committee [CDC]",
+        "href": "/about#cdc"
+      },
+      {
+        "name": "Staffs",
+        "sublinks": [
+          {
+            "name": "Teaching Staffs",
+            "href": "/about#teaching-staff"
+          },
+          {
+            "name": "Non-Teaching Staffs",
+            "href": "/about#non-teaching-staff"
+          }
+        ]
+      },
+      {
+        "name": "Affiliations",
+        "href": "/about#affiliations"
+      },
+      {
+        "name": "RTI",
+        "href": "/about#rti"
+      },
+      {
+        "name": "Audit Report",
+        "href": "/about#audit-reports"
+      }
+    ]
+  },
+  {
+    "title": "Academics",
+    "href": "/academics",
+    "links": [
+      {
+        "name": "Course Offered",
+        "href": "/academics"
+      },
+      {
+        "name": "Prospectus",
+        "href": "/academics#prospectus"
+      },
+      {
+        "name": "Admission Form",
+        "sublinks": [
+          {
+            "name": "Online Form",
+            "href": "/admissions"
+          },
+          {
+            "name": "Offline Form",
+            "href": "/admissions"
+          }
+        ]
+      },
+      {
+        "name": "Academic Calendar",
+        "href": "/academics#calendar"
+      },
+      {
+        "name": "Time Table",
+        "href": "/academics#timetable"
+      },
+      {
+        "name": "Approved Fee Structure",
+        "href": "/academics#fees"
+      },
+      {
+        "name": "Admission Committee",
+        "href": "/committees#admission"
+      },
+      {
+        "name": "Examination Committee",
+        "href": "/committees#examination"
+      }
+    ]
+  },
+  {
+    "title": "NAAC",
+    "href": "/naac",
+    "links": [
+      {
+        "name": "About NAAC",
+        "href": "/naac"
+      },
+      {
+        "name": "NAAC CRITERIA",
+        "href": "/naac/criteria"
+      },
+      {
+        "name": "DVV",
+        "href": "/naac/dvv"
+      },
+      {
+        "name": "SSR-Cycle - I",
+        "href": "/naac/ssr-cycle-1"
+      },
+      {
+        "name": "SSR-Cycle - II",
+        "href": "/naac/ssr-cycle-2"
+      },
+      {
+        "name": "AISHE Certificates",
+        "href": "/naac/aishe-certificates"
+      },
+      {
+        "name": "NAAC Certificates",
+        "href": "/naac/certificates"
+      },
+      {
+        "name": "Academic Audit KBCNMU",
+        "href": "/naac/academic-audit"
+      }
+    ]
+  },
+  {
+    "title": "IQAC",
+    "href": "/iqac",
+    "links": [
+      {
+        "name": "About IQAC",
+        "href": "/iqac/about"
+      },
+      {
+        "name": "IQAC Committee",
+        "href": "/iqac/committee"
+      },
+      {
+        "name": "Statutory Committee",
+        "sublinks": [
+          {
+            "name": "SC-ST- Cell",
+            "href": "/iqac/statutory/sc-st-cell"
+          },
+          {
+            "name": "Minority Cell",
+            "href": "/iqac/statutory/minority-cell"
+          },
+          {
+            "name": "Internal Complaint Committee",
+            "href": "/iqac/statutory/icc"
+          },
+          {
+            "name": "OBC - Cell",
+            "href": "/iqac/statutory/obc-cell"
+          },
+          {
+            "name": "Anti-Ragging Committee",
+            "href": "/iqac/statutory/anti-ragging"
+          },
+          {
+            "name": "Grievance Redressal Committee",
+            "href": "/iqac/statutory/grievance"
+          }
+        ]
+      },
+      {
+        "name": "Annual Quality Assurance Report [AQAR]",
+        "href": "/iqac/aqar"
+      },
+      {
+        "name": "Action Taken Report [ATR]",
+        "href": "/iqac/atr"
+      },
+      {
+        "name": "IQAC - Minutes",
+        "href": "/iqac/minutes"
+      },
+      {
+        "name": "IIQA Documents",
+        "href": "/iqac/iiqa"
+      },
+      {
+        "name": "Student Satisfaction Survey",
+        "href": "/iqac/sss"
+      },
+      {
+        "name": "Activities",
+        "href": "/iqac/activities"
+      }
+    ]
+  },
+  {
+    "title": "Infrastructure",
+    "href": "/infrastructure",
+    "links": [
+      {
+        "name": "Library",
+        "href": "/infrastructure#library"
+      },
+      {
+        "name": "Sports",
+        "href": "/infrastructure#sports"
+      },
+      {
+        "name": "Canteen",
+        "href": "/infrastructure#canteen"
+      },
+      {
+        "name": "Computer Lab",
+        "href": "/infrastructure#computer-lab"
+      },
+      {
+        "name": "Administrative",
+        "href": "/infrastructure#administrative"
+      },
+      {
+        "name": "Other Facilities",
+        "href": "/infrastructure#other-facilities"
+      },
+      {
+        "name": "College Campus",
+        "href": "/infrastructure#campus"
+      }
+    ]
+  },
+  {
+    "title": "Gallery",
+    "href": "/gallery",
+    "links": [
+      {
+        "name": "Image Gallery",
+        "href": "/gallery#image"
+      },
+      {
+        "name": "Media Gallery",
+        "href": "/gallery#media"
+      }
+    ]
+  },
+  {
+    "title": "Contact",
+    "href": "/contact",
+    "links": [
+      {
+        "name": "Contact Us",
+        "href": "/contact"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Hon. Shri. Example Name",
+    "designation": "President",
+    "organization": "SJMSM Sanstha",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Hon. Smt. Example Name",
+    "designation": "Secretary",
+    "organization": "SJMSM Sanstha",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Dr. A. B. Patil",
+    "designation": "Principal / Ex-Officio Member",
+    "organization": "SJMSM's College",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "Shri. R. K. Singh",
+    "designation": "Member",
+    "organization": "SJMSM Sanstha",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop"
+  }
+]

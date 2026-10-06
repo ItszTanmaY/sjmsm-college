@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "src": "/images/gallery/20250318_110948-v2.jpg",
+    "alt": "20250318_110948",
+    "category": "Events",
+    "span": "md:col-span-2 md:row-span-2"
+  },
+  {
+    "id": "2",
+    "src": "/images/gallery/20250808_094100-v2.jpg",
+    "alt": "20250808_094100",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "3",
+    "src": "/images/gallery/7305faa2-9cdf-43df-98a8-9d22bc451374-v2.jpg",
+    "alt": "7305faa2 9cdf 43df 98a8 9d22bc451374",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "4",
+    "src": "/images/gallery/award-bsp-v2.jpg",
+    "alt": "Award Bsp",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "5",
+    "src": "/images/gallery/career-katta-v2.jpg",
+    "alt": "Career Katta",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "6",
+    "src": "/images/gallery/holi-tribal-v2.jpg",
+    "alt": "Holi Tribal",
+    "category": "Events",
+    "span": "md:col-span-2"
+  },
+  {
+    "id": "7",
+    "src": "/images/gallery/indepandance-12-v2.jpg",
+    "alt": "Indepandance 12",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "8",
+    "src": "/images/gallery/prin-int-con1-v2.jpg",
+    "alt": "Prin Int Con1",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "9",
+    "src": "/images/gallery/programme1-v2.jpg",
+    "alt": "Programme1",
+    "category": "Events",
+    "span": ""
+  },
+  {
+    "id": "10",
+    "src": "/images/gallery/tree-planitration-chairman-v2.jpg",
+    "alt": "Tree Planitration Chairman",
+    "category": "Events",
+    "span": ""
+  }
+]

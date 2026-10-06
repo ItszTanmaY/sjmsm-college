@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "category": "general",
+    "title": "12b ugc",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/12b-ugc.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "2",
+    "category": "general",
+    "title": "2f ugc",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/2f-ugc.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "3",
+    "category": "atr",
+    "title": "action taken report academic year 2017 2018",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2017-2018.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "4",
+    "category": "atr",
+    "title": "action taken report academic year 2018 2019",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2018-2019.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "5",
+    "category": "atr",
+    "title": "action taken report academic year 2019 2020",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2019-2020.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "6",
+    "category": "atr",
+    "title": "action taken report academic year 2020 2021",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2020-2021.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "7",
+    "category": "atr",
+    "title": "action taken report academic year 2021 2022",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2021-2022.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "8",
+    "category": "atr",
+    "title": "action taken report academic year 2022 2023",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/action-taken-report-academic-year-2022-2023.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "9",
+    "category": "general",
+    "title": "affiliation certificate letter",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/affiliation-certificate-letter.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "10",
+    "category": "aqar",
+    "title": "aqar report 2017 2018",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/aqar-report-2017-2018.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "11",
+    "category": "aqar",
+    "title": "aqar report 2018 2019",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/aqar-report-2018-2019.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "12",
+    "category": "aqar",
+    "title": "aqar report 2019 2020",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/aqar-report-2019-2020.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "13",
+    "category": "aqar",
+    "title": "aqar report 2020 2021",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/aqar-report-2020-2021.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "14",
+    "category": "aqar",
+    "title": "aqar report 2021 2022",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/aqar-report-2021-2022.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "15",
+    "category": "general",
+    "title": "commu services",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/commu-services.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "16",
+    "category": "minutes",
+    "title": "iqac minutes 2017 2018",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/iqac-minutes-2017-2018.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "17",
+    "category": "minutes",
+    "title": "iqac minutes 2018 2019",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/iqac-minutes-2018-2019.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "18",
+    "category": "minutes",
+    "title": "iqac minutes 2019 2020",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/iqac-minutes-2019-2020.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "19",
+    "category": "minutes",
+    "title": "iqac minutes 2020 2021",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/iqac-minutes-2020-2021.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "20",
+    "category": "minutes",
+    "title": "iqac minutes 2021 2022",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/iqac-minutes-2021-2022.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "21",
+    "category": "minutes",
+    "title": "minutes ant ragg 2022 23",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/minutes-ant-ragg-2022-23.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "22",
+    "category": "general",
+    "title": "self declaration",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/self-declaration.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "23",
+    "category": "sss",
+    "title": "student satisfaction survey 2017 2022",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/student-satisfaction-survey-2017-2022.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "24",
+    "category": "sss",
+    "title": "student satisfaction survye 2022 2023",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/student-satisfaction-survye-2022-2023.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "25",
+    "category": "general",
+    "title": "undertaking",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/IQAC/undertaking.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  }
+]

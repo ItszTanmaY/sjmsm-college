@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "term": "First Term (Odd Semester)",
+    "startDate": "15 June 2024",
+    "endDate": "31 October 2024",
+    "events": [
+      {
+        "date": "20 June 2024",
+        "title": "Commencement of Classes"
+      },
+      {
+        "date": "15 August 2024",
+        "title": "Independence Day Celebration"
+      },
+      {
+        "date": "5 September 2024",
+        "title": "Teachers' Day"
+      },
+      {
+        "date": "15-20 October 2024",
+        "title": "First Term Internal Examinations"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "term": "Winter Vacation",
+    "startDate": "1 November 2024",
+    "endDate": "25 November 2024",
+    "events": []
+  },
+  {
+    "id": "3",
+    "term": "Second Term (Even Semester)",
+    "startDate": "26 November 2024",
+    "endDate": "30 April 2025",
+    "events": [
+      {
+        "date": "26 January 2025",
+        "title": "Republic Day Celebration"
+      },
+      {
+        "date": "February 2025",
+        "title": "Annual Sports & Cultural Meet"
+      },
+      {
+        "date": "10-25 April 2025",
+        "title": "Second Term / University Examinations"
+      }
+    ]
+  }
+]

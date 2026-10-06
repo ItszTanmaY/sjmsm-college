@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "type": "teaching",
+    "name": "Dr. A. B. Patil",
+    "designation": "Principal",
+    "qualification": "M.A., Ph.D.",
+    "department": "Administration",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "type": "teaching",
+    "name": "Prof. S. R. Sharma",
+    "designation": "Head of Department",
+    "qualification": "M.Com., NET",
+    "department": "Commerce",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "type": "teaching",
+    "name": "Dr. M. K. Deshmukh",
+    "designation": "Assistant Professor",
+    "qualification": "M.A. (English), SET, Ph.D.",
+    "department": "English",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "type": "teaching",
+    "name": "Prof. V. P. Wagh",
+    "designation": "Assistant Professor",
+    "qualification": "M.A. (History), B.Ed.",
+    "department": "History",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "type": "non-teaching",
+    "name": "Mr. R. T. Gavit",
+    "designation": "Head Clerk",
+    "qualification": "B.Com",
+    "department": "Office Administration",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "type": "non-teaching",
+    "name": "Mrs. L. K. Patel",
+    "designation": "Librarian",
+    "qualification": "M.Lib.I.Sc.",
+    "department": "Library",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "type": "non-teaching",
+    "name": "Mr. P. S. Valvi",
+    "designation": "Peon",
+    "qualification": "HSC",
+    "department": "Support Staff",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1000&auto=format&fit=crop"
+  }
+]

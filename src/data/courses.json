@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "category": "Senior - UG Courses",
+    "title": "Bachelor of Arts (B.A.)",
+    "duration": "3 Years (6 Semesters)",
+    "eligibility": "10+2 from a recognized board",
+    "specializations": ["Marathi", "Hindi", "History", "Geography"],
+    "description": "Our B.A. program offers a comprehensive liberal arts education designed to develop critical thinking, strong communication skills, and a deep understanding of human culture and history.",
+    "syllabusPdf": "/Docs/ba.pdf",
+    "additionalPdfs": [{"title": "Subject Selection", "url": "/Docs/subject-selection-for-ba.pdf"}]
+  },
+  {
+    "id": "2",
+    "category": "Senior - PG Courses",
+    "title": "Master of Arts (M.A.)",
+    "duration": "2 Years (4 Semesters)",
+    "eligibility": "Bachelor's Degree in relevant subject",
+    "specializations": ["Marathi", "Hindi"],
+    "description": "The M.A. program provides advanced theoretical and practical knowledge in arts and humanities, preparing students for research, academia, and professional leadership.",
+    "syllabusPdf": "/Docs/ma.pdf"
+  },
+  {
+    "id": "3",
+    "category": "Junior Courses",
+    "title": "Higher Secondary - Arts",
+    "duration": "2 Years (11th & 12th)",
+    "eligibility": "10th (SSC) from a recognized board",
+    "specializations": ["11th Arts", "12th Arts"],
+    "description": "The Junior College Arts stream provides a strong foundational education in languages and social sciences, preparing students for diverse undergraduate programs."
+  },
+  {
+    "id": "4",
+    "category": "Junior Courses",
+    "title": "Higher Secondary - Science",
+    "duration": "2 Years (11th & 12th)",
+    "eligibility": "10th (SSC) from a recognized board",
+    "specializations": ["11th Science", "12th Science"],
+    "description": "The Junior College Science stream offers rigorous coursework in physics, chemistry, biology, and mathematics, laying the groundwork for medical, engineering, and pure science careers."
+  },
+  {
+    "id": "5",
+    "category": "Certificate Courses",
+    "title": "Certificate in Spoken English",
+    "duration": "3 Months",
+    "eligibility": "Open to all enrolled students",
+    "specializations": [],
+    "description": "Enhance your communication skills and gain confidence in speaking English in professional and social settings."
+  },
+  {
+    "id": "6",
+    "category": "Certificate Courses",
+    "title": "Certificate in Tally ERP 9",
+    "duration": "6 Months",
+    "eligibility": "Preference given to Commerce students",
+    "specializations": [],
+    "description": "A practical course focused on computerized accounting using Tally ERP, essential for modern business accounting."
+  }
+]

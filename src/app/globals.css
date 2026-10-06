@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F8FAFC; /* slate-50 */
+  --foreground: #0F172A; /* slate-900 */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --color-navy: #0B132B; /* Deep obsidian */
+  --color-navy-light: #1C2541; /* Dark slate */
+  --color-gold: #F5A623; /* Rich vibrant gold */
+  --color-gold-light: #F76B1C; /* Amber orange for gradients */
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}

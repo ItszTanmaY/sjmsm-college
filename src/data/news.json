@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Competaton",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Competaton. Read more about this event.",
+    "category": "Campus News",
+    "slug": "competaton",
+    "image": "/images/newspaper/competaton-v2.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Examnews",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Examnews. Read more about this event.",
+    "category": "Campus News",
+    "slug": "examnews",
+    "image": "/images/newspaper/examnews-v2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Marothon News",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Marothon News. Read more about this event.",
+    "category": "Campus News",
+    "slug": "marothon-news",
+    "image": "/images/newspaper/marothon-news-v2.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Mou News",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Mou News. Read more about this event.",
+    "category": "Campus News",
+    "slug": "mou-news",
+    "image": "/images/newspaper/mou-news-v2.jpg"
+  },
+  {
+    "id": "5",
+    "title": "News Webinar Cas",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: News Webinar Cas. Read more about this event.",
+    "category": "Campus News",
+    "slug": "news-webinar-cas",
+    "image": "/images/newspaper/news-webinar-cas-v2.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Personality",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Personality. Read more about this event.",
+    "category": "Campus News",
+    "slug": "personality",
+    "image": "/images/newspaper/personality-v2.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Poster Presentation",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Poster Presentation. Read more about this event.",
+    "category": "Campus News",
+    "slug": "poster-presentation",
+    "image": "/images/newspaper/poster-presentation-v2.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Swayam News",
+    "date": "2026-08-20",
+    "excerpt": "Latest update: Swayam News. Read more about this event.",
+    "category": "Campus News",
+    "slug": "swayam-news",
+    "image": "/images/newspaper/swayam-news-v2.jpg"
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "id": "1",
+    "category": "academic-audit",
+    "title": "academic audit kbcnmu",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/academic-audit-kbcnmu.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "2",
+    "category": "criteria",
+    "title": "1 1 1 co curricular activities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-1-co-curricular-activities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "3",
+    "category": "criteria",
+    "title": "1 1 1 field visits industry visits",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-1-field-visits-industry-visits.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "4",
+    "category": "criteria",
+    "title": "1 1 1 teaching diaries",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-1-teaching-diaries.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "5",
+    "category": "criteria",
+    "title": "1 1 1 teaching plan",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-1-teaching-plan.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "6",
+    "category": "criteria",
+    "title": "1 1 2 academic calender college cac",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-academic-calender-college-cac.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "7",
+    "category": "criteria",
+    "title": "1 1 2 exam cell",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-exam-cell.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "8",
+    "category": "criteria",
+    "title": "1 1 2 internal question papers",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-internal-question-papers.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "9",
+    "category": "criteria",
+    "title": "1 1 2 internal test",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-internal-test.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "10",
+    "category": "criteria",
+    "title": "1 1 2 teacher orientation on cie",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-teacher-orientation-on-cie.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "11",
+    "category": "criteria",
+    "title": "1 1 2 uac",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-2-uac.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "12",
+    "category": "criteria",
+    "title": "1 1 3 academic council bos affiating university",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-1-3-academic-council-bos-affiating-university.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "13",
+    "category": "criteria",
+    "title": "1 2 1 cbcs elective course",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-2-1-cbcs-elective-course.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "14",
+    "category": "criteria",
+    "title": "1 2 2 number of add on certificate",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-2-2-number-of-add-on-certificate.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "15",
+    "category": "criteria",
+    "title": "1 3 1 cross cutting",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/1-3-1-cross-cutting.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "16",
+    "category": "criteria",
+    "title": "2 1 2 number of students admitted",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/2-1-2-number-of-students-admitted.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "17",
+    "category": "criteria",
+    "title": "2 4 2 list of full time teachers",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/2-4-2-list-of-full-time-teachers.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "18",
+    "category": "criteria",
+    "title": "2 6 1 programe coursee outcomes",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/2-6-1-programe-coursee-outcomes.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "19",
+    "category": "criteria",
+    "title": "2 6 2 number of students appeared ua exam",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/2-6-2-number-of-students-appeared-ua-exam.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "20",
+    "category": "criteria",
+    "title": "3 1 1 3 1 2 3 1 3 vcrms",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-1-1-3-1-2-3-1-3-vcrms.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "21",
+    "category": "criteria",
+    "title": "3 2 2 number of workshop seminars conferences",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-2-2-number-of-workshop-seminars-conferences.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "22",
+    "category": "criteria",
+    "title": "3 2 2 number of workshops seminars on ference",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-2-2-number-of-workshops-seminars-on-ference.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "23",
+    "category": "criteria",
+    "title": "3 3 1 3 1 2 phds registeation reasearch student guidence",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-3-1-3-1-2-phds-registeation-reasearch-student-guidence.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "24",
+    "category": "criteria",
+    "title": "3 3 2 3 3 3 research papers publication",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-3-2-3-3-3-research-papers-publication.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "25",
+    "category": "criteria",
+    "title": "3 4 1 3 4 3 3 4 4 3 5 1 3 5 2 extension activities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-4-1-3-4-3-3-4-4-3-5-1-3-5-2-extension-activities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "26",
+    "category": "criteria",
+    "title": "3 4 2 number of awards",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/3-4-2-number-of-awards.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "27",
+    "category": "criteria",
+    "title": "4 1 1 academic support facillities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/4-1-1-academic-support-facillities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "28",
+    "category": "criteria",
+    "title": "4 1 1 physical facillities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/4-1-1-physical-facillities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "29",
+    "category": "criteria",
+    "title": "4 1 2 the insulation has adequte facillities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/4-1-2-the-insulation-has-adequte-facillities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "30",
+    "category": "criteria",
+    "title": "4 1 4 avarge percentage by expenditure",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/4-1-4-avarge-percentage-by-expenditure.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "31",
+    "category": "criteria",
+    "title": "5 1 5 gravience sexual anti commities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/5-1-5-gravience-sexual-anti-commities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "32",
+    "category": "criteria",
+    "title": "6 1 1 management council cdc",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-1-1-management-council-cdc.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "33",
+    "category": "criteria",
+    "title": "6 2 1 cdc",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-2-1-cdc.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "34",
+    "category": "criteria",
+    "title": "6 2 2 implegation of e governance",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-2-2-implegation-of-e-governance.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "35",
+    "category": "criteria",
+    "title": "6 3 1 gpf teaching nonteaching staff",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-3-1-gpf-teaching-nonteaching-staff.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "36",
+    "category": "criteria",
+    "title": "6 3 3 fdp",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-3-3-fdp.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "37",
+    "category": "criteria",
+    "title": "6 4 1 financial managment resourcce mobi",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-4-1-financial-managment-resourcce-mobi.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "38",
+    "category": "criteria",
+    "title": "6 5 2 iqac",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/6-5-2-iqac.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "39",
+    "category": "criteria",
+    "title": "7 1 1 institustional values best practices",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-1-institustional-values-best-practices.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "40",
+    "category": "criteria",
+    "title": "7 1 2 the institustion has facillities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-2-the-institustion-has-facillities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "41",
+    "category": "criteria",
+    "title": "7 1 3 describe the facilities",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-3-describe-the-facilities.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "42",
+    "category": "criteria",
+    "title": "7 1 4 describe institustion efforts initiatives",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-4-describe-institustion-efforts-initiatives.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "43",
+    "category": "criteria",
+    "title": "7 1 5 sensitization of studene employes",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-5-sensitization-of-studene-employes.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "44",
+    "category": "criteria",
+    "title": "7 1 6 celebrate national international days",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-1-6-celebrate-national-international-days.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "45",
+    "category": "criteria",
+    "title": "7 2 1 best practices 01 water sensitization",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-2-1-best-practices-01-water-sensitization.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "46",
+    "category": "criteria",
+    "title": "7 2 1 best practicles 02 communication skill development",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-2-1-best-practicles-02-communication-skill-development.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "47",
+    "category": "criteria",
+    "title": "7 3 1 portray the performance of institustion",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/7-3-1-portray-the-performance-of-institustion.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "48",
+    "category": "aishe-certificates",
+    "title": "AISHE CERTIFICATE 2020 2021",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/AISHE/AISHE-CERTIFICATE-2020-2021.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "49",
+    "category": "aishe-certificates",
+    "title": "AISHE CERTIFICATE 2021 2022",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/AISHE/AISHE-CERTIFICATE-2021-2022.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "50",
+    "category": "dvv",
+    "title": "dvv 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "51",
+    "category": "dvv",
+    "title": "dvv 1 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-1-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "52",
+    "category": "dvv",
+    "title": "dvv 1 2 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-1-2-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "53",
+    "category": "dvv",
+    "title": "dvv 1 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-1-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "54",
+    "category": "dvv",
+    "title": "dvv 1 4 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-1-4-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "55",
+    "category": "dvv",
+    "title": "dvv 2 1 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-1-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "56",
+    "category": "dvv",
+    "title": "dvv 2 1 1 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-1-1-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "57",
+    "category": "dvv",
+    "title": "dvv 2 1 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-1-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "58",
+    "category": "dvv",
+    "title": "dvv 2 1 2 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-1-2-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "59",
+    "category": "dvv",
+    "title": "dvv 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "60",
+    "category": "dvv",
+    "title": "dvv 2 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "61",
+    "category": "dvv",
+    "title": "dvv 2 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "62",
+    "category": "dvv",
+    "title": "dvv 2 4 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-4-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "63",
+    "category": "dvv",
+    "title": "dvv 2 4 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-4-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "64",
+    "category": "dvv",
+    "title": "dvv 2 4 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-4-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "65",
+    "category": "dvv",
+    "title": "dvv 2 4 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-4-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "66",
+    "category": "dvv",
+    "title": "dvv 2 6 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-6-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "67",
+    "category": "dvv",
+    "title": "dvv 2 6 3",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-2-6-3.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "68",
+    "category": "dvv",
+    "title": "dvv 3 1 1 3 1 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-1-1-3-1-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "69",
+    "category": "dvv",
+    "title": "dvv 3 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "70",
+    "category": "dvv",
+    "title": "dvv 3 2 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-2-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "71",
+    "category": "dvv",
+    "title": "dvv 3 3 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-3-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "72",
+    "category": "dvv",
+    "title": "dvv 3 4 3 3 4 3 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-4-3-3-4-3-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "73",
+    "category": "dvv",
+    "title": "dvv 3 5 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-3-5-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "74",
+    "category": "dvv",
+    "title": "dvv 4 1 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-4-1-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "75",
+    "category": "dvv",
+    "title": "dvv 4 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-4-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "76",
+    "category": "dvv",
+    "title": "dvv 4 4 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-4-4-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "77",
+    "category": "dvv",
+    "title": "dvv 5 1 1 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-1-1-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "78",
+    "category": "dvv",
+    "title": "dvv 5 1 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-1-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "79",
+    "category": "dvv",
+    "title": "dvv 5 1 3",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-1-3.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "80",
+    "category": "dvv",
+    "title": "dvv 5 1 4",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-1-4.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "81",
+    "category": "dvv",
+    "title": "dvv 5 2 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-2-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "82",
+    "category": "dvv",
+    "title": "dvv 5 2 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-2-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "83",
+    "category": "dvv",
+    "title": "dvv 5 3 1",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-3-1.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "84",
+    "category": "dvv",
+    "title": "dvv 5 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-5-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "85",
+    "category": "dvv",
+    "title": "dvv 6 2 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-6-2-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "86",
+    "category": "dvv",
+    "title": "dvv 6 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-6-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "87",
+    "category": "dvv",
+    "title": "dvv 6 3 3 1 6 3 3 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-6-3-3-1-6-3-3-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "88",
+    "category": "dvv",
+    "title": "dvv 6 5 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-6-5-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "89",
+    "category": "dvv",
+    "title": "dvv 7 1 2",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-7-1-2.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "90",
+    "category": "dvv",
+    "title": "dvv 7 1 3",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/DVV/dvv-7-1-3.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "91",
+    "category": "certificates",
+    "title": "naac certificate",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/naac-certificate.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "92",
+    "category": "ssr-cycle-2",
+    "title": "ssr final 16 6 2023 mhcogn26191",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/SSR/ssr-final-16-6-2023-mhcogn26191.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "93",
+    "category": "ssr-cycle-2",
+    "title": "ssr khapar college 2017",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/SSR/ssr-khapar-college-2017.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "94",
+    "category": "criteria",
+    "title": "ssr final 16 6 2023 mhcogn26191",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/ssr-final-16-6-2023-mhcogn26191.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  },
+  {
+    "id": "95",
+    "category": "criteria",
+    "title": "ssr khapar college 2017",
+    "date": "2024-01-01",
+    "fileUrl": "/Docs/NAAC/ssr-khapar-college-2017.pdf",
+    "size": "PDF",
+    "type": "PDF"
+  }
+]

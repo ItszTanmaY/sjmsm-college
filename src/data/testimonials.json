@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Rohan Patel",
+    "batch": "B.Com, Class of 2023",
+    "quote": "The faculty at SJMSM College provided me with the knowledge and confidence to excel in my career. The campus environment is incredibly supportive.",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Priya Sharma",
+    "batch": "B.A., Class of 2024",
+    "quote": "I found a perfect balance between academics and extracurricular activities here. The college truly focuses on holistic development.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Amit Kumar",
+    "batch": "B.Com, Class of 2022",
+    "quote": "The placement support and add-on courses gave me a competitive edge. I am proud to be an alumnus of this prestigious institution.",
+    "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=200&auto=format&fit=crop"
+  }
+]

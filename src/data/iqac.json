@@ -1,0 +1,48 @@
+{
+  "about": {
+    "vision": "To ensure quality culture as the prime concern for the Higher Education Institutions through institutionalizing and internalizing all the initiatives taken with internal and external support.",
+    "objectives": [
+      "To develop a system for conscious, consistent and catalytic action to improve the academic and administrative performance of the institution.",
+      "To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices."
+    ],
+    "functions": [
+      "Development and application of quality benchmarks/parameters for various academic and administrative activities.",
+      "Facilitating the creation of a learner-centric environment conducive to quality education.",
+      "Arrangement for feedback response from students, parents and other stakeholders on quality-related institutional processes.",
+      "Dissemination of information on various quality parameters of higher education.",
+      "Organization of inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles."
+    ]
+  },
+  "committees": [
+    {
+      "id": "1",
+      "name": "Dr. A. B. Patil",
+      "role": "Chairperson",
+      "designation": "Principal"
+    },
+    {
+      "id": "2",
+      "name": "Prof. S. R. Sharma",
+      "role": "Coordinator",
+      "designation": "Head of Department (Commerce)"
+    },
+    {
+      "id": "3",
+      "name": "Dr. M. K. Deshmukh",
+      "role": "Member (Teacher Representative)",
+      "designation": "Assistant Professor (English)"
+    },
+    {
+      "id": "4",
+      "name": "Mr. R. T. Gavit",
+      "role": "Member (Administrative Officer)",
+      "designation": "Head Clerk"
+    },
+    {
+      "id": "5",
+      "name": "Mr. Vikas Patil",
+      "role": "Member (Local Society)",
+      "designation": "Social Worker"
+    }
+  ]
+}

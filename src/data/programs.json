@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sr-arts",
+    "title": "Senior College (Arts)",
+    "description": "B.A. degree programs with specializations in various humanities subjects.",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "sr-commerce",
+    "title": "Senior College (Commerce)",
+    "description": "B.Com degree programs focusing on modern business and commerce practices.",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "jr-college",
+    "title": "Junior College",
+    "description": "11th and 12th standard education in Arts and Commerce streams.",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "add-on",
+    "title": "Add-on Courses",
+    "description": "Skill-oriented certificate courses to enhance employability.",
+    "icon": "Award"
+  }
+]

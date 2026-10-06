@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Central Library",
+    "description": "A vast collection of over 25,000 books, journals, and digital resources to support academic research and learning.",
+    "detailedDescription": "The Central Library is the heart of academic life at SJMSM. It offers an expansive, air-conditioned reading hall capable of accommodating over 200 students. In addition to the massive collection of reference books and periodicals, students have access to a digital section with internet-enabled workstations for e-learning and research.",
+    "icon": "Book",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1000&auto=format&fit=crop",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "id": "2",
+    "title": "Computer Lab",
+    "description": "State-of-the-art computer lab with high-speed internet and the latest software for practical learning.",
+    "detailedDescription": "Equipped with over 60 high-performance workstations, our Computer Lab provides a hands-on technical environment. Students can utilize the latest programming software, design tools, and an uninterrupted 100Mbps fiber-optic internet connection. The lab is open extended hours to assist students in completing their projects and research.",
+    "icon": "Monitor",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+    "span": "col-span-1 row-span-1"
+  },
+  {
+    "id": "3",
+    "title": "Sports Complex",
+    "description": "Large playground and indoor sports facilities promoting physical fitness and team spirit.",
+    "detailedDescription": "We believe in the holistic development of our students. The sports complex features a full-sized cricket/football ground, a volleyball court, and an indoor stadium for badminton and table tennis. Regular intra-college and university-level tournaments are hosted here, fostering sportsmanship and physical well-being.",
+    "icon": "Trophy",
+    "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=1000&auto=format&fit=crop",
+    "span": "col-span-1 row-span-1"
+  },
+  {
+    "id": "4",
+    "title": "College Canteen",
+    "description": "Hygienic and affordable meals and snacks available for students and staff.",
+    "detailedDescription": "The college canteen is a vibrant hub of student activity and relaxation. It offers a wide variety of hygienic, nutritious, and affordable meals, snacks, and beverages. The seating area is spacious and regularly sanitized, providing a comfortable environment for students to interact and unwind between classes.",
+    "icon": "Coffee",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000&auto=format&fit=crop",
+    "span": "col-span-1 row-span-1"
+  },
+  {
+    "id": "5",
+    "title": "Seminar Hall",
+    "description": "Equipped with audio-visual aids for guest lectures, workshops, and cultural events.",
+    "detailedDescription": "Our modern Seminar Hall has a seating capacity of 300 and is fully air-conditioned. It is equipped with advanced audio-visual equipment, including HD projectors and a premium sound system. It serves as the primary venue for guest lectures, academic workshops, cultural events, and college ceremonies.",
+    "icon": "Mic",
+    "image": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?q=80&w=1000&auto=format&fit=crop",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  }
+]
