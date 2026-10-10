@@ -270,7 +270,7 @@ export default function AboutPage() {
                 <div className="text-6xl text-navy/20 font-serif italic">
                   Signature
                 </div>
-                <Link href="#" className="inline-flex items-center justify-center gap-2 bg-gold text-navy px-6 py-3 rounded-full text-sm font-bold tracking-wider uppercase hover:bg-navy hover:text-white transition-colors shadow-lg shadow-gold/20 shrink-0">
+                <Link href="/STAFFDOCS/teaching/senior/cv_V.I. Girase_principal.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 bg-gold text-navy px-6 py-3 rounded-full text-sm font-bold tracking-wider uppercase hover:bg-navy hover:text-white transition-colors shadow-lg shadow-gold/20 shrink-0">
                   View Profile <ArrowRight className="w-4 h-4" />
                 </Link>
               </div>

@@ -1,37 +1,212 @@
 [
   {
-    "id": "1",
+    "id": "iqac_1",
     "category": "iqac-committee",
-    "name": "Dr. Example Principal",
-    "designation": "Principal",
+    "name": "Hon. Bapusaheb V.C. Chaudhari",
+    "role": "Management Representative"
+  },
+  {
+    "id": "iqac_2",
+    "category": "iqac-committee",
+    "name": "Prin. Dr. V.I. Girase",
+    "role": "Ex-officio -chairman"
+  },
+  {
+    "id": "iqac_3",
+    "category": "iqac-committee",
+    "name": "Dr. P.B. Ghante",
+    "role": "Coordinator"
+  },
+  {
+    "id": "iqac_4",
+    "category": "iqac-committee",
+    "name": "Dr. B.S. Patil",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_5",
+    "category": "iqac-committee",
+    "name": "Dr. R.D. Chaudhari",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_6",
+    "category": "iqac-committee",
+    "name": "Dr. V.B. Mali",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_7",
+    "category": "iqac-committee",
+    "name": "Prof. M.P. Suryawanshi",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_8",
+    "category": "iqac-committee",
+    "name": "Mr. B.C. Chaudhari",
+    "role": "Non-Teaching Representative"
+  },
+  {
+    "id": "iqac_9",
+    "category": "iqac-committee",
+    "name": "Smt. Manisha Kanatilal Chaudhari",
+    "role": "Management - Member"
+  },
+  {
+    "id": "iqac_10",
+    "category": "iqac-committee",
+    "name": "Abdul Karim Siddhiki",
+    "role": "Social Worker Representative"
+  },
+  {
+    "id": "iqac_11",
+    "category": "iqac-committee",
+    "name": "Vasave Prakash Kalusing",
+    "role": "Student Representative"
+  },
+  {
+    "id": "iqac_12",
+    "category": "iqac-committee",
+    "name": "Prin. Dr. Mahendra Raghuvanshi",
+    "role": "External Expert -Representative"
+  },
+  {
+    "id": "iqac_13",
+    "category": "iqac-committee",
+    "name": "Ku. Madhuri Ramakant Dhivre",
+    "role": "Allumani Student"
+  },
+  {
+    "id": "iqac_14",
+    "category": "sc-st-cell",
+    "name": "Prof. N.S. Tadvi",
+    "role": "Co-ordinator"
+  },
+  {
+    "id": "iqac_15",
+    "category": "sc-st-cell",
+    "name": "Prof. S.P. Baisane",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_16",
+    "category": "sc-st-cell",
+    "name": "Shri. B.C. Chaudhari",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_17",
+    "category": "sc-st-cell",
+    "name": "Shri. J.S. Chaudhari",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_18",
+    "category": "sc-st-cell",
+    "name": "Shri. Vijay Ramsing Padavi",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_19",
+    "category": "minority-cell",
+    "name": "Dr. V.I. Girase",
     "role": "Chairman"
   },
   {
-    "id": "2",
-    "category": "iqac-committee",
-    "name": "Prof. Example Coordinator",
-    "designation": "Head of Department",
-    "role": "Coordinator"
-  },
-  {
-    "id": "3",
-    "category": "sc-st-cell",
-    "name": "Dr. ABC",
-    "designation": "Associate Professor",
-    "role": "Coordinator"
-  },
-  {
-    "id": "4",
+    "id": "iqac_20",
     "category": "minority-cell",
-    "name": "Prof. XYZ",
-    "designation": "Assistant Professor",
-    "role": "Member"
+    "name": "Prof. S.P. Baisane",
+    "role": "Coordinator"
   },
   {
-    "id": "5",
+    "id": "iqac_21",
+    "category": "minority-cell",
+    "name": "Dr. G.P. Pathak",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_22",
+    "category": "minority-cell",
+    "name": "Shri. B.P. Jamadar",
+    "role": "Non-Teaching Representative"
+  },
+  {
+    "id": "iqac_23",
+    "category": "minority-cell",
+    "name": "Ku. Tejal Jain",
+    "role": "Student Representative"
+  },
+  {
+    "id": "iqac_24",
     "category": "icc",
-    "name": "Dr. LMN",
-    "designation": "Professor",
-    "role": "Presiding Officer"
+    "name": "Dr. V.I. Girase",
+    "role": "Chairman"
+  },
+  {
+    "id": "iqac_25",
+    "category": "icc",
+    "name": "Dr. V.B. Mali",
+    "role": "Co-Ordinator"
+  },
+  {
+    "id": "iqac_26",
+    "category": "icc",
+    "name": "Dr. R.D. Chaudhari",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_27",
+    "category": "icc",
+    "name": "Prof. D.T. Surywanshi",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_28",
+    "category": "icc",
+    "name": "Shri. J.P. Chaudhari",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_29",
+    "category": "icc",
+    "name": "Miss Manisha K. Chaudhari",
+    "role": "Women Representative"
+  },
+  {
+    "id": "iqac_30",
+    "category": "icc",
+    "name": "Ku. Monika Vasave",
+    "role": "Student Representative"
+  },
+  {
+    "id": "iqac_31",
+    "category": "obc-cell",
+    "name": "Dr. G.P. Pathak",
+    "role": "Co-Ordinator"
+  },
+  {
+    "id": "iqac_32",
+    "category": "obc-cell",
+    "name": "Dr. R.D. Chaudhari",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "iqac_33",
+    "category": "obc-cell",
+    "name": "Shri. B.C. Chaudhari",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_34",
+    "category": "obc-cell",
+    "name": "Shri. J.P. Chaudhari",
+    "role": "Non Teaching Representative"
+  },
+  {
+    "id": "iqac_35",
+    "category": "obc-cell",
+    "name": "Ku. Kinjal Vikas Chaudhari",
+    "role": "Student Representative"
   }
 ]

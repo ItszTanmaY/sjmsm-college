@@ -6,7 +6,7 @@ import { Users } from 'lucide-react';
 
 interface Member {
   name: string;
-  designation: string;
+  designation?: string;
   role: string;
 }
 
@@ -55,15 +55,13 @@ export default function CommitteeSection({ title, description, members, document
                 <th className="py-4 px-6 text-sm font-bold text-navy uppercase tracking-wider">Sr. No.</th>
                 <th className="py-4 px-6 text-sm font-bold text-navy uppercase tracking-wider">Name of Member</th>
                 <th className="py-4 px-6 text-sm font-bold text-navy uppercase tracking-wider">Designation</th>
-                <th className="py-4 px-6 text-sm font-bold text-navy uppercase tracking-wider">Role in Committee</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100">
               {members.map((member, index) => (
                 <tr key={index} className="hover:bg-gray-50/50 transition-colors">
-                  <td className="py-4 px-6 text-sm text-gray-500 font-medium">{index + 1}</td>
+                  <td className="py-4 px-6 text-sm text-gray-500 font-medium">{String(index + 1).padStart(2, '0')}</td>
                   <td className="py-4 px-6 text-sm text-navy font-bold">{member.name}</td>
-                  <td className="py-4 px-6 text-sm text-gray-600">{member.designation}</td>
                   <td className="py-4 px-6 text-sm text-gray-600">
                     <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-bold ${
                       member.role.toLowerCase().includes('chairman') || member.role.toLowerCase().includes('coordinator') 

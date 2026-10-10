@@ -53,16 +53,14 @@ export default function IQACCommitteesPage() {
                     <tr className="bg-navy text-white uppercase tracking-widest text-xs">
                       <th className="px-6 py-4 font-bold">Sr. No.</th>
                       <th className="px-6 py-4 font-bold">Name of Member</th>
-                      <th className="px-6 py-4 font-bold">Designation</th>
-                      <th className="px-6 py-4 font-bold text-gold">Role in IQAC</th>
+                      <th className="px-6 py-4 font-bold text-gold">Designation</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100">
                     {iqacData.committees.map((member, idx) => (
                       <tr key={member.id} className="hover:bg-gray-50 transition-colors">
-                        <td className="px-6 py-5 font-bold text-gray-400">{idx + 1}</td>
+                        <td className="px-6 py-5 font-bold text-gray-400">{String(idx + 1).padStart(2, '0')}</td>
                         <td className="px-6 py-5 font-display font-bold text-navy whitespace-nowrap">{member.name}</td>
-                        <td className="px-6 py-5 text-gray-600">{member.designation}</td>
                         <td className="px-6 py-5 font-bold text-navy bg-gray-50/50">{member.role}</td>
                       </tr>
                     ))}
