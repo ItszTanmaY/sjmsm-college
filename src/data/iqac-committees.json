@@ -208,5 +208,59 @@
     "category": "obc-cell",
     "name": "Ku. Kinjal Vikas Chaudhari",
     "role": "Student Representative"
+  },
+  {
+    "id": "new_stat_1",
+    "category": "anti-ragging",
+    "name": "Prof. D.T. Suryawanshi",
+    "role": "Co-coordinator"
+  },
+  {
+    "id": "new_stat_2",
+    "category": "anti-ragging",
+    "name": "Shri. B.C. Chaudhari",
+    "role": "Non-Teaching Representative"
+  },
+  {
+    "id": "new_stat_3",
+    "category": "anti-ragging",
+    "name": "Miss. Anita Padvi",
+    "role": "Teacher Representative"
+  },
+  {
+    "id": "new_stat_4",
+    "category": "anti-ragging",
+    "name": "Ku. Kinjal Vikas Chaudhari",
+    "role": "Student Representative"
+  },
+  {
+    "id": "new_stat_5",
+    "category": "grievance",
+    "name": "Dr. R.D. Chaudhari",
+    "role": "Coordinator"
+  },
+  {
+    "id": "new_stat_6",
+    "category": "grievance",
+    "name": "Dr. B.S. Patil",
+    "role": "Teacher representative"
+  },
+  {
+    "id": "new_stat_7",
+    "category": "grievance",
+    "name": "Prof. D.T. Surywanshi",
+    "role": "Teacher representative"
+  },
+  {
+    "id": "new_stat_8",
+    "category": "grievance",
+    "name": "Prof. N.S. Tadvi",
+    "role": "Teacher representative"
+  },
+  {
+    "id": "new_stat_9",
+    "category": "grievance",
+    "name": "Shri. B.C. Chaudhari",
+    "role": "Non teaching representative"
   }
 ]
