@@ -247,8 +247,8 @@ export default function AboutPage() {
                   className="object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 />
                 <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-navy to-transparent p-8 pt-32">
-                  <h4 className="text-3xl font-display font-black text-white">Dr. A. B. Principal</h4>
-                  <p className="text-gold font-bold tracking-widest text-sm mt-2 uppercase">Principal, M.A., Ph.D.</p>
+                  <h4 className="text-3xl font-display font-black text-white">Dr. Vijaysing Indrasing Girase</h4>
+                  <p className="text-gold font-bold tracking-widest text-sm mt-2 uppercase">Principal, M.Com, M.Phil, Ph.D.</p>
                 </div>
               </div>
             </FadeUp>

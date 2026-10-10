@@ -51,102 +51,6 @@
     "experience": "25+ Years"
   },
   {
-    "id": "nt1",
-    "category": "non-teaching-staff",
-    "name": "Mr. Ashok Kale",
-    "designation": "Head Clerk",
-    "qualifications": "B.Com",
-    "experience": "22 Years"
-  },
-  {
-    "id": "nt2",
-    "category": "non-teaching-staff",
-    "name": "Mr. Suresh Pawar",
-    "designation": "Senior Clerk",
-    "qualifications": "B.A.",
-    "experience": "18 Years"
-  },
-  {
-    "id": "nt3",
-    "category": "non-teaching-staff",
-    "name": "Mrs. Sunita Jadhav",
-    "designation": "Junior Clerk",
-    "qualifications": "B.Com",
-    "experience": "10 Years"
-  },
-  {
-    "id": "nt4",
-    "category": "non-teaching-staff",
-    "name": "Mr. Ramesh Bhosale",
-    "designation": "Lab Assistant",
-    "qualifications": "B.Sc",
-    "experience": "15 Years"
-  },
-  {
-    "id": "nt5",
-    "category": "non-teaching-staff",
-    "name": "Mr. Vinod More",
-    "designation": "Library Attendant",
-    "qualifications": "HSC",
-    "experience": "12 Years"
-  },
-  {
-    "id": "nt6",
-    "category": "non-teaching-staff",
-    "name": "Mr. Ganesh Shinde",
-    "designation": "Peon",
-    "qualifications": "SSC",
-    "experience": "20 Years"
-  },
-  {
-    "id": "nt7",
-    "category": "non-teaching-staff",
-    "name": "Mr. Santosh Chavan",
-    "designation": "Peon",
-    "qualifications": "SSC",
-    "experience": "16 Years"
-  },
-  {
-    "id": "nt8",
-    "category": "non-teaching-staff",
-    "name": "Mr. Anil Wagh",
-    "designation": "Peon",
-    "qualifications": "SSC",
-    "experience": "14 Years"
-  },
-  {
-    "id": "nt9",
-    "category": "non-teaching-staff",
-    "name": "Mr. Deepak Koli",
-    "designation": "Peon",
-    "qualifications": "HSC",
-    "experience": "8 Years"
-  },
-  {
-    "id": "nt10",
-    "category": "non-teaching-staff",
-    "name": "Mr. Vijay Mali",
-    "designation": "Sweeper",
-    "qualifications": "Under SSC",
-    "experience": "25 Years"
-  },
-  {
-    "id": "nt11",
-    "category": "non-teaching-staff",
-    "name": "Mrs. Mangal Bai",
-    "designation": "Sweeper",
-    "qualifications": "Under SSC",
-    "experience": "20 Years"
-  },
-  {
-    "id": "nt12",
-    "category": "non-teaching-staff",
-    "name": "Mr. Raju Bhil",
-    "designation": "Night Watchman",
-    "qualifications": "SSC",
-    "experience": "10 Years"
-  },
-  {
     "id": "ts1",
     "category": "teaching-staff",
     "name": "Dr. Vijaysing Indrasing Girase",
@@ -245,5 +149,117 @@
     "experience": "Since 2015",
     "subject": "Library Science",
     "pdfUrl": "/STAFFDOCS/teaching/senior/cv_PB_Ghante.pdf"
+  },
+  {
+    "id": "nts1",
+    "category": "non-teaching-staff",
+    "name": "Shri. B.C. Mahale",
+    "designation": "O.S",
+    "qualifications": "12th Pass",
+    "experience": "13 Years"
+  },
+  {
+    "id": "nts2",
+    "category": "non-teaching-staff",
+    "name": "Shri. V.N. Chaudhari",
+    "designation": "Head Clerk",
+    "qualifications": "12th Pass",
+    "experience": "13 Years"
+  },
+  {
+    "id": "nts3",
+    "category": "non-teaching-staff",
+    "name": "Shri. J.P. Chaudhari",
+    "designation": "Sr. Clerk",
+    "qualifications": "12th Pass",
+    "experience": "13 Years"
+  },
+  {
+    "id": "nts4",
+    "category": "non-teaching-staff",
+    "name": "Shri. P.N. Patil",
+    "designation": "Sr. Clerk",
+    "qualifications": "12th Pass",
+    "experience": "11 Years"
+  },
+  {
+    "id": "nts5",
+    "category": "non-teaching-staff",
+    "name": "Shri. P.B. Jamadar",
+    "designation": "Jr. Clerk",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nts6",
+    "category": "non-teaching-staff",
+    "name": "Shri. P.M. Chaudhari",
+    "designation": "Lab. Assit.",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nts7",
+    "category": "non-teaching-staff",
+    "name": "Shri. D.P. Zine",
+    "designation": "Lib. Attent.",
+    "qualifications": "B.A.",
+    "experience": "14 Years"
+  },
+  {
+    "id": "nts8",
+    "category": "non-teaching-staff",
+    "name": "Shri. V.S. Parmar",
+    "designation": "Lab. Attent.",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nts9",
+    "category": "non-teaching-staff",
+    "name": "Shri. B.E. Chaudhari",
+    "designation": "Lab. Attent.",
+    "qualifications": "B.Com",
+    "experience": "10 Years"
+  },
+  {
+    "id": "nts10",
+    "category": "non-teaching-staff",
+    "name": "Sau. U.J. Chaudhari",
+    "designation": "Lab. Attent.",
+    "qualifications": "7th",
+    "experience": "7 Years"
+  },
+  {
+    "id": "nts11",
+    "category": "non-teaching-staff",
+    "name": "Shri. B.R. Vasave",
+    "designation": "Peon",
+    "qualifications": "10th",
+    "experience": "17 Years"
+  },
+  {
+    "id": "nts12",
+    "category": "non-teaching-staff",
+    "name": "Shri. V.R. Padavi",
+    "designation": "Peon",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nts13",
+    "category": "non-teaching-staff",
+    "name": "Shri. B.R. Pawar",
+    "designation": "Peon",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
+  },
+  {
+    "id": "nts14",
+    "category": "non-teaching-staff",
+    "name": "Shri. J.S. Chaudhari",
+    "designation": "Peon",
+    "qualifications": "12th Pass",
+    "experience": "16 Years"
   }
 ]
